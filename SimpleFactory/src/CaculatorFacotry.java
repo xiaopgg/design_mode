@@ -1,5 +1,7 @@
 /**
  * Created by apple on 2018/1/29.
+ *
+ * 计算方法的生产工厂，根据传入的符号，来生生产对应的计算子类
  */
 public class CaculatorFacotry
 {

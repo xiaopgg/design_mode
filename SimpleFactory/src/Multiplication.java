@@ -1,5 +1,6 @@
 /**
  * Created by apple on 2018/1/29.
+ * 乘法实现
  */
 public class Multiplication extends Caculator {
 

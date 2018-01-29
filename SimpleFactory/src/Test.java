@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 /**
  * Created by apple on 2018/1/29.
+ * 测试类
  */
 public class Test {
     public static void main(String[] args)

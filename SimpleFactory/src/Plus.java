@@ -1,5 +1,7 @@
 /**
  * Created by apple on 2018/1/29.
+ *
+ * 加法实现
  */
 public class Plus extends Caculator
 {

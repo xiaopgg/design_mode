@@ -1,5 +1,6 @@
 /**
  * Created by apple on 2018/1/29.
+ * 除法实现
  */
 public class Division extends Caculator {
     public Division(float num, float numx) {

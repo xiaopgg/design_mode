@@ -1,5 +1,7 @@
 /**
  * Created by apple on 2018/1/29.
+ *
+ * 计算抽象类，获取构造方法中获取数值，一个抽象的计算方法，子类通过继承实现自己的抽象计算方法
  */
 public  abstract class Caculator
 {
